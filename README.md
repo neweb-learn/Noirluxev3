@@ -1,7 +1,7 @@
 
-  # Luxury Restaurant Website Design
+  # NoirLuxe
 
-  This is a code bundle for Luxury Restaurant Website Design. The original project is available at https://www.figma.com/design/S0qbmhiZAxk0HqzQddu3Tq/Luxury-Restaurant-Website-Design.
+  This is a code bundle for NoirLuxe. The original project is available at https://www.figma.com/design/S0qbmhiZAxk0HqzQddu3Tq/NoirLuxe.
 
   ## Running the code
 
